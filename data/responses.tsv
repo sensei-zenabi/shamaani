@@ -1,0 +1,13 @@
+# Kysymys ja vastaus erotetaan sarkaimella. Pisin sopiva ilmaus ratkaisee.
+hei	Hei! Olen Shamaani. Mistä haluaisit keskustella?
+moi	Moi! Mistä haluaisit jutella?
+terve	Terve! Kuinka voin auttaa?
+kuka olet	Olen Shamaani, pääteohjelmassa toimiva keskustelukumppani. Haen vastaukseni paikallisesta aineistosta.
+kuka sinä olet	Olen Shamaani, pääteohjelmassa toimiva keskustelukumppani. Haen vastaukseni paikallisesta aineistosta.
+mitä kuuluu	Olen valmis juttelemaan. Mitä sinulle kuuluu?
+miten voit	Olen valmis juttelemaan. Miten sinä voit?
+ohje	Kokeile tervehtiä tai kysyä ”kuka olet”. Lopeta keskustelu komennolla /lopeta.
+apua	Kokeile tervehtiä tai kysyä ”kuka olet”. Lopeta keskustelu komennolla /lopeta.
+linux	Tämä sovellus toimii Linux-päätteessä ja lukee vastauksensa paikallisesta tekstiaineistosta.
+kiitos	Ole hyvä!
+heippa	Heippa! Voit päättää keskustelun komennolla /lopeta.
